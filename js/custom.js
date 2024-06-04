@@ -364,8 +364,11 @@ $(function () {
      /* Product slider 
      -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- */
      // optional
-     $('#blogCarousel').carousel({
-        interval: 5000
+		$('#main_slider').carousel({
+        interval: false
+     });
+		$('#my_slider').carousel({
+        interval: false
      });
 
 
