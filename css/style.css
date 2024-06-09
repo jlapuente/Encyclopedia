@@ -1034,3 +1034,8 @@ ul {
     width: 25%;
     display: inline-grid;
 }
+
+a > img {
+width: 8%;
+}
+
