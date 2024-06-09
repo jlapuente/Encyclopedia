@@ -212,7 +212,7 @@ button {
 }
 
 .layout_padding {
-    padding-top: 90px;
+    padding-top: 40px;
     padding-bottom: 0px;
 }
 
@@ -1020,4 +1020,17 @@ textarea#comment::placeholder {
 
 .margin_top90{
     margin-top: 90px;
+}
+
+.box_main {
+    background-image: url(../images/base-enfermedades.png);
+}
+
+* {
+    font-family: 'Oswald', sans-serif;
+}
+
+ul {
+    width: 25%;
+    display: inline-grid;
 }
